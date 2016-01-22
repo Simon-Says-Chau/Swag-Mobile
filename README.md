@@ -10,4 +10,4 @@ Vehicles have basic movement, forward, backwards, turn left, and turn right.  Th
 
 #Bugs
 
-Some errors that we had were detecting specific values for the Infrared Transmitters.  The values varied greatly due to exposure of various frequencies of light.  
+Some errors that we had were detecting specific values for the Infrared Transmitters.  We did not consider the IR light from the Sun and our values varied greatly due to exposure of various frequencies of light.  
